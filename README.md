@@ -1,4 +1,4 @@
-# 🌐 GraphForge
+# 🌐 GraphLab
 *A simple and interactive graph visualization tool for exploring data structures.*
 
 ## 🚀 Current Features
