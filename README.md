@@ -10,6 +10,5 @@
 - **Visualization Modes** - Directed Graph, Weighted Graph
 - **Algorithm** - Djikstra's, Path Searching
 - **Automata** - Separate Menu with Deterministic Finite Automata Maker
-## 🛠️ Tech Stack
-- All Java baby
+
 
